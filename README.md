@@ -1,5 +1,5 @@
 
-# Coffee_Machine
+# Coffee Machine Project
 
 Coffee Machine is a console application that was created for the JetBrains Java Hyperskill Curriculum.  It utilizes classes to make, fill, and edit a coffee maker.
 
